@@ -6,6 +6,7 @@ public class Test {
         String s = "123";
         s.isEmpty();
         Date date = new Date();
+        s.length();
 
     }
 }
